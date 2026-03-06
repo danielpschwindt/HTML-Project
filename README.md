@@ -67,7 +67,13 @@ These projects were created to:
 2. Open any `index.html` file in a browser
 3. Or deploy using GitHub Pages
 
-## Author
+## Results
+Blog:
+<img width="3817" height="1468" alt="Screenshot 2026-03-06 111107" src="https://github.com/user-attachments/assets/84c569f3-0696-413a-80c9-04ef3886d233" />
 
+Resume:
+<img width="3832" height="1821" alt="Screenshot 2026-03-06 111124" src="https://github.com/user-attachments/assets/1092fad1-6831-4eb0-bbe3-84dc76d4bb44" />
+
+## Author
 Danny Schwindt  
 GitHub: https://github.com/danielpschwindt
